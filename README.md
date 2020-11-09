@@ -1,1 +1,1 @@
-# Regresi-n-Lineal-
+# Regresion-Lineal-
